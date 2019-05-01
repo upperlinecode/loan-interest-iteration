@@ -1,10 +1,12 @@
 ### Check the README for additional information ###
 
 # 1. Create a function called simple_payment that only accepts monthly payment and returns the number of months it will take to repay a $3,000 zero-interest, zero-fee loan.
+# Then call the function with two different amounts to ensure that it works properly.
 
 
 
 # 2. Create a function called repay_low_interest that takes in a loan amount and a monthly payment. It should integrate the bank's fee and the interest rate to return the number of months it would take to repay that loan.
+# Then call the function with different amounts and different payments.
 
 
 
