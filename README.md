@@ -4,7 +4,7 @@
 
 How do banks figure out how long it will take for a client to pay back a loan? In general, banks have a set of instructions (an algorithm) that takes in important information like amount borrowed, bank fees, and interest rates to figure out how long a client will need to pay back the full loan plus fees and interest.
 
-In this lab, you'll be writing python (?) methods to calculate how long it will take someone to pay back a loan.
+In this lab, you'll be writing Python methods to calculate how long it will take someone to pay back a loan.
 
 > Although banks usually compound interest monthly, we're going to assume interest is compounded once at the beginning of the loan period.
 
